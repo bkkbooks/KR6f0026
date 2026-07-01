@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6f0026/T/v1
+canonical_location: https://kanripo.org/bkk/KR6f0026/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說須摩提菩薩經
+  identifiers:
+    krp: KR6f0026
+    cbeta: T12n0334
+    cbeta_old_id: T12n0334
+    authorityid: CA0003632
+    json_key: T0334
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T12/T12n0334.xml
+    old_id: T12n0334
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6f0026_000-T.yaml, hash: 'sha256:05ea5c791e0acea2ccbfc9a4322e151a41e867a8cf1e9fb55dddd6e9831ebede'}
+  - {seq: 1, filename: KR6f0026_001-T.yaml, hash: 'sha256:be5be2004c2dc7693b670b49c4383c628c7ba45474d0e39b906f7f814db6e2ba'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6f0026_000-T.markers.yaml, hash: 'sha256:b20fc60f92e8b57419b8b0ad76e82d46015d954b975cd9c2c3e72116aaa48026'}
+  - {seq: 1, role: markers, filename: assets/KR6f0026_001-T.markers.yaml, hash: 'sha256:a098e8b26473e4d976df8cca5ed01f022589fd192401c3c2053fae1ccf5db8ed'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6f0026_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 3245
+  label: 佛說須摩提菩薩經按《開元錄》，須摩提經亦直云須摩經
+  type: juan
+  level: 1
+hash: sha256:b1193f98d48221242c3a833109821cbf63dd7c44dd6d07089538a8ac9f5404c9
