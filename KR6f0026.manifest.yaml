@@ -37,9 +37,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6f0026_000.yaml, hash: 'sha256:05ea5c791e0acea2ccbfc9a4322e151a41e867a8cf1e9fb55dddd6e9831ebede'}
-  - {seq: 1, filename: KR6f0026_001.yaml, hash: 'sha256:fb33b6866b71450ad8a6f032334693901bf78aa9bab39d8bc933049788cf0c4b'}
+  - {seq: 1, filename: KR6f0026_001.yaml, hash: 'sha256:be5be2004c2dc7693b670b49c4383c628c7ba45474d0e39b906f7f814db6e2ba'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6f0026_001.markers.yaml, hash: 'sha256:1f6cda9bb8a986962b4a36421a972b25878eaddf82aab89ab85acf41bc8063c6'}
+  - {seq: 0, role: markers, filename: assets/KR6f0026_000.markers.yaml, hash: 'sha256:c4df1ebdab8600e2ac039ca3b0b366831a889660974d04df782444c538139e11'}
+  - {seq: 1, role: markers, filename: assets/KR6f0026_001.markers.yaml, hash: 'sha256:dfb58da4b0b60a70cc05edbb263e33a53e7aa2b8a6bcb32dad9a29c19b7aa368'}
 table_of_contents:
 - ref:
     seq: 1
@@ -51,7 +52,4 @@ table_of_contents:
   label: 佛說須摩提菩薩經按《開元錄》，須摩提經亦直云須摩經
   type: juan
   level: 1
-hash: sha256:3e2de11e2321eaf5596db7cf2ce55c3e85d53a4c0731ed49052dc5605735efce
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:5701199f4c9efcd7711efcc95863511cd7169829de423a378b92a948de13c070
