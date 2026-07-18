@@ -22,7 +22,7 @@ assets:
   - {seq: 0, filename: KR6f0026_000-T.yaml, hash: 'sha256:05ea5c791e0acea2ccbfc9a4322e151a41e867a8cf1e9fb55dddd6e9831ebede'}
   - {seq: 1, filename: KR6f0026_001-T.yaml, hash: 'sha256:be5be2004c2dc7693b670b49c4383c628c7ba45474d0e39b906f7f814db6e2ba'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6f0026_000-T.markers.yaml, hash: 'sha256:b20fc60f92e8b57419b8b0ad76e82d46015d954b975cd9c2c3e72116aaa48026'}
+  - {seq: 0, role: markers, filename: assets/KR6f0026_000-T.markers.yaml, hash: 'sha256:f50bdfc9ff8d70f3641858ba9b293150d1918e63b9767a23f2a726828e6e8b86'}
   - {seq: 1, role: markers, filename: assets/KR6f0026_001-T.markers.yaml, hash: 'sha256:a098e8b26473e4d976df8cca5ed01f022589fd192401c3c2053fae1ccf5db8ed'}
 table_of_contents:
 - ref:
@@ -35,4 +35,4 @@ table_of_contents:
   label: 佛說須摩提菩薩經按《開元錄》，須摩提經亦直云須摩經
   type: juan
   level: 1
-hash: sha256:b1193f98d48221242c3a833109821cbf63dd7c44dd6d07089538a8ac9f5404c9
+hash: sha256:0452c88fc359ddf3eb64e9dc123ae1d51abc9cffa0a75191da3d36c7a479f0fe
